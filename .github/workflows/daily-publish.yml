@@ -1,0 +1,49 @@
+name: ☕ Daily Café — Auto Publish
+
+on:
+  push:
+    paths:
+      - 'newsletters/*.html'
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: ☕ Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 📦 Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 📥 Install dependencies
+        run: npm ci
+
+      - name: 🤖 Extract articles from newsletter
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          FILE=$(ls -t newsletters/*.html 2>/dev/null | head -1)
+          if [ -z "$FILE" ]; then
+            echo "❌ No newsletter HTML found"
+            exit 1
+          fi
+          echo "☕ Processing: $FILE"
+          node pipeline.js "$FILE"
+
+      - name: 🔍 Verify
+        run: |
+          ARTICLES=$(node -e "const d=require('./data/latest.json'); console.log(d.articles.length)")
+          echo "✅ Extracted $ARTICLES articles"
+
+      - name: 🚀 Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "☕ Daily Café Report — auto-publish"
+          file_pattern: "data/*.json"
+          branch: main

@@ -1,0 +1,12 @@
+{
+  "name": "productivity-cafe",
+  "version": "1.0.0",
+  "description": "☕ Daily Café Report — auto-publishing newsletter website",
+  "scripts": {
+    "publish": "node pipeline.js",
+    "publish:latest": "node pipeline.js $(ls -t newsletters/*.html | head -1)"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}

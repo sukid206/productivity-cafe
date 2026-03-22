@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "date": "2026-03-21",
+    "day": "Saturday",
+    "issue_number": 22,
+    "tagline": "Day 22. Trump says winding down. Sent 2,500 Marines. Oil hit $112. Chuck Norris died. Elon lost in court. Saturday.",
+    "greeting": "Good morning, Café crew — it's Saturday and the news did not take the weekend off."
+  },
+  "headlines": [
+    "🌸 Iran's supreme leader said Iran dealt a \"dizzying blow\" — Day 22 of the war",
+    "📉 S&P 500 down 1.5% — oil at $112, Hormuz fears driving the selloff",
+    "🇩🇰 Denmark had explosives ready to blow up Greenland's runways",
+    "⚖️ Elon Musk found liable for misleading Twitter investors — saved $150M",
+    "🤖 Anthropic is suing the Pentagon — hearing March 24",
+    "💰 Pentagon wants $200B more for the war"
+  ],
+  "articles": [
+    {
+      "id": "trump-winding-down-marines-2026-03-21",
+      "slug": "trump-winding-down-marines",
+      "title": "Trump Says \"Winding Down\" — Then Sends 2,500 More Marines",
+      "category": "World Roast",
+      "cat_icon": "🌍",
+      "featured": true,
+      "excerpt": "Trump posted the US is \"getting very close to meeting our objectives.\" Then 2,500 more Marines deployed. Oil hit $112. The S&P fell 1.5%. Classic mixed signals.",
+      "body": "On Friday, Trump posted on Truth Social that the US is \"getting very close to meeting our objectives as we consider winding down our great Military efforts in the Middle East.\" Sounds peaceful. Then the Pentagon announced 2,500 more Marines were deploying to the region. That sounds less peaceful.\n\nIran's new supreme leader Mojtaba Khamenei appeared for Nowruz after all — said Iran dealt a \"dizzying blow\" to adversaries and the fight continues. To try to lower oil prices, the US lifted sanctions on 140 million barrels of Iranian oil already loaded on ships — a 30-day waiver until April 19.\n\nIt didn't work. Oil hit $112 and the S&P fell 1.5%. The word \"winding down\" is doing a lot of heavy lifting here.",
+      "barista_take": "Trump says winding down. 2,500 Marines say otherwise. The English language called — it wants its words back. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "denmark-greenland-runways-2026-03-21",
+      "slug": "denmark-greenland-runways",
+      "title": "Denmark Had Explosives Ready to Blow Up Greenland's Runways",
+      "category": "World Roast",
+      "cat_icon": "🌍",
+      "featured": false,
+      "excerpt": "While everyone was watching Iran, Denmark disguised soldiers as NATO exercise participants and gave them orders to destroy runways if US aircraft showed up uninvited.",
+      "body": "Here's a sentence nobody expected to read in 2026: Denmark secretly prepared to blow up its own runways.\n\nDenmark disguised a troop deployment to Greenland as a NATO exercise. The soldiers were carrying explosives. Their orders: destroy the runways if US aircraft tried to land without permission. Twelve high-level sources confirmed the plan. The operation was called \"Arctic Endurance.\"\n\nThis happened while the entire world was focused on Iran. Nobody was watching Greenland. Denmark was. With explosives.\n\nThe Greenland situation did not go away. It just got a demolition team.",
+      "barista_take": "Denmark brought explosives to a NATO exercise. That's not how exercises usually work. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "pentagon-press-unconstitutional-2026-03-21",
+      "slug": "pentagon-press-unconstitutional",
+      "title": "Pentagon Press Restrictions Tossed by Federal Judge",
+      "category": "World Roast",
+      "cat_icon": "🌍",
+      "featured": false,
+      "excerpt": "A federal judge ruled Pentagon wartime press restrictions violated the First Amendment. The same week the FCC threatened broadcast licenses. Pick a lane, government.",
+      "body": "A federal judge tossed the Pentagon's wartime restrictions on news outlets, ruling they violated the First Amendment. The lawsuit was brought by The New York Times, which apparently still has lawyers.\n\nThis happened one day after the FCC threatened to revoke broadcast licenses for outlets reporting \"fake news\" on the Iran war. So on Monday, one branch of government tried to shut down the press. On Tuesday, another branch said that's unconstitutional.\n\nThe First Amendment had a very busy week. It needs a coffee. ☕",
+      "barista_take": "One branch defends press freedom. Another branch threatens it. The Constitution is doing cardio. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "saudi-missile-intercept-2026-03-21",
+      "slug": "saudi-missile-intercept",
+      "title": "Saudi Arabia Intercepted a Ballistic Missile This Morning",
+      "category": "World Roast",
+      "cat_icon": "🌍",
+      "featured": false,
+      "excerpt": "A ballistic missile was intercepted over Saudi Arabia's northern Al Jouf region. Nobody's claimed it. The Middle East remains the Middle East.",
+      "body": "Saudi Arabia intercepted a ballistic missile this morning over the northern Al Jouf region. No group has claimed responsibility yet, which is the geopolitical equivalent of nobody raising their hand when the teacher asks who threw that.\n\nMeanwhile, Kuwait's Mina Al-Ahmadi refinery was hit again overnight. Fire crews are still working. Oil moved higher because of course it did.\n\nDay 22 of the war. The news cycle isn't taking weekends off.",
+      "barista_take": "Missile intercepted. Refinery on fire. Oil up. Saturday vibes in the Middle East. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "oil-markets-money-minute-2026-03-21",
+      "slug": "oil-markets-money-minute",
+      "title": "Oil at $112 — Markets Called Trump's Bluff",
+      "category": "Market Latte",
+      "cat_icon": "💰",
+      "featured": false,
+      "excerpt": "S&P fell 1.5%. Sanctions lifted on 140M barrels of Iranian oil. Futures traders still pricing oil above $80 through July 2027. Nobody believes \"winding down.\"",
+      "body": "Oil closed at $112 a barrel on Friday — up from $108 Thursday. Markets didn't buy Trump's \"winding down\" language. Neither did oil.\n\nThe S&P fell 1.5%. The US lifted sanctions on 140 million barrels of Iranian oil already loaded on ships — a short-term move to cool prices. It was the policy equivalent of opening a window during a house fire.\n\nFutures traders are still pricing oil above $80 through July 2027. That's not \"winding down\" pricing. That's \"we don't believe you\" pricing.\n\nGas is heading toward $5 a gallon nationally. The sanctions waiver on Iranian oil buys time — not a solution.",
+      "barista_take": "Markets don't listen to Truth Social. They listen to $112 oil. ☕",
+      "date": "2026-03-21",
+      "market_data": [
+        {"name": "Oil (Brent)", "value": "~$108", "mood": "🔥 Gas field hit", "direction": "down"},
+        {"name": "S&P 500", "value": "~6,634", "mood": "▲ +0.12% futures", "direction": "up"},
+        {"name": "Gold", "value": "~$5,050", "mood": "▲ Safe haven", "direction": "up"},
+        {"name": "30-yr Mortgage", "value": "6.08%", "mood": "Watch oil fallout", "direction": "down"},
+        {"name": "Rate Cut odds", "value": "~55%", "mood": "↓ Falling fast", "direction": "down"}
+      ]
+    },
+    {
+      "id": "gold-five-thousand-2026-03-21",
+      "slug": "gold-five-thousand",
+      "title": "Gold Just Crossed $5,000 and Nobody's Talking About It",
+      "category": "Market Latte",
+      "cat_icon": "💰",
+      "featured": false,
+      "excerpt": "Gold hit $5,050 an ounce. Up 67% from a year ago. Your grandmother was right about gold. She was right about a lot of things.",
+      "body": "Gold quietly crossed $5,000 an ounce this week. A year ago it was $3,025. That's a 67% return for doing absolutely nothing except owning a shiny rock.\n\nThe people who said \"buy gold\" when Iran tensions started? Looking pretty smart. The people who said \"gold is a boomer investment\"? Not updating their LinkedIn bios about it.\n\nWar + inflation + uncertainty = gold goes up. It's the simplest trade in finance and it's been working since ancient Egypt.\n\nSilver's up too. Oil's at $112. The only thing that's down is your faith in a quick resolution.",
+      "barista_take": "Gold: $5,050. Your grandmother: vindicated. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "gas-five-dollars-2026-03-21",
+      "slug": "gas-five-dollars",
+      "title": "Gas Is About to Hit $5 a Gallon. Here's Your Weekend Move.",
+      "category": "Market Latte",
+      "cat_icon": "💰",
+      "featured": false,
+      "excerpt": "Oil at $112 means $5 gas is coming for your wallet. The sanctions waiver buys time, not a price fix. Fill up today. Check GasBuddy. That's the whole play.",
+      "body": "Oil is at $112. Gas is heading above $5 a gallon nationally. This is not a drill.\n\nThe US lifted sanctions on 140 million barrels of Iranian oil as a short-term move to cool prices. It bought time — maybe a week. The $112 oil price hasn't hit your pump yet, but it will.\n\nTwo things you can do this weekend:\n\nFill up today. Seriously. Before $112 oil reaches your local station.\n\nCheck GasBuddy. The cheapest station near you is usually $0.30–$0.50 cheaper than the most expensive. At $5 a gallon on a 15-gallon tank, that's $7.50 back in your pocket every fill-up.\n\nSmall moves. Big savings. That's the whole money habit.",
+      "barista_take": "GasBuddy. Full tank. This weekend. Your wallet will thank you on Wednesday. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "musk-twitter-investors-2026-03-21",
+      "slug": "musk-twitter-investors",
+      "title": "Elon Musk Lost in Court — Jury Says He Cheated Twitter Investors",
+      "category": "Tech Espresso",
+      "cat_icon": "🤖",
+      "featured": false,
+      "excerpt": "A jury found Musk delayed disclosing his 5% stake in Twitter so he could keep buying cheap. He pocketed $150M. The jury called it securities fraud.",
+      "body": "A jury found that Elon Musk delayed disclosing that he'd crossed the 5% ownership threshold in Twitter — the legal deadline to report — so he could buy more shares at a lower price before the market reacted.\n\nHe saved roughly $150 million. The jury said that was securities fraud. Which, legally speaking, is the expensive kind of fraud.\n\nThis is the first major legal defeat for Musk in the Twitter acquisition saga. Damages hearing to follow. His legal team is presumably updating their billable hours.\n\nThe man who bought Twitter to \"save free speech\" just got found liable for not speaking up when the law required it. Irony remains undefeated.",
+      "barista_take": "Elon saved $150M by staying quiet. The jury said that's fraud. Free speech has limits, apparently. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "anthropic-suing-pentagon-2026-03-21",
+      "slug": "anthropic-suing-pentagon",
+      "title": "Anthropic Is Suing the Pentagon — AI's Biggest Policy Battle",
+      "category": "Tech Espresso",
+      "cat_icon": "🤖",
+      "featured": false,
+      "excerpt": "OpenAI signed a defense deal. 2.5M users rage-quit. The Pentagon blacklisted Anthropic. Anthropic sued. This is the AI Cold War and it's happening in court.",
+      "body": "After OpenAI signed a defense deal and 2.5 million users rage-quit the platform, the Pentagon designated Anthropic a \"supply chain risk\" — effectively blacklisting them from government contracts.\n\nAnthropic's response: a lawsuit. Hearing set for March 24.\n\nThis isn't a tech beef. This is the most consequential AI policy battle in Washington right now. It'll determine how the government treats AI vendors for years — whether defense contracts go to the highest bidder or the best technology.\n\nThe AI war and the actual war are colliding in the strangest ways. Welcome to 2026.",
+      "barista_take": "OpenAI got the deal. Anthropic got blacklisted. Anthropic got a lawyer. March 24 will be interesting. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "fcc-broadcast-licenses-2026-03-21",
+      "slug": "fcc-broadcast-licenses",
+      "title": "FCC Chair Threatens to Pull Broadcast Licenses Over War Coverage",
+      "category": "Tech Espresso",
+      "cat_icon": "🤖",
+      "featured": false,
+      "excerpt": "The FCC chair threatened to revoke broadcast licenses for \"fake news\" on the Iran war. A Republican senator pushed back. Tech meets politics meets the First Amendment.",
+      "body": "The FCC chair threatened to revoke broadcast licenses for outlets reporting what he called \"fake news\" about the Iran war. That's the government agency that controls who can broadcast, threatening to silence outlets it disagrees with.\n\nA Republican senator pushed back publicly — which is notable because the FCC chair was appointed by a Republican president. When your own team says you've gone too far, you've gone too far.\n\nThe next day, a federal judge ruled Pentagon press restrictions unconstitutional. The First Amendment is getting a workout this week.\n\nSomewhere, a journalism professor is updating their syllabus in real time.",
+      "barista_take": "Government threatens press licenses. Government's own judge says that's unconstitutional. Government needs a meeting. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "three-careers-war-creating-2026-03-21",
+      "slug": "three-careers-war-creating",
+      "title": "Three Careers That Didn't Exist Two Years Ago",
+      "category": "Career Move",
+      "cat_icon": "💼",
+      "featured": false,
+      "excerpt": "The Musk verdict, the Pentagon ruling, and the war just created three career paths that pay well and barely existed before 2024.",
+      "body": "Two court decisions this week reshaped media and tech law. Both create career opportunities most people haven't thought about yet.\n\nSecurities compliance analyst — the Musk verdict reminds every public company that disclosure timing matters. Companies are scrambling to audit their SEC reporting processes. No law degree required for entry-level roles. Just attention to detail and comfort with spreadsheets.\n\nWar economy analyst — Trump controls oil prices right now more than any OPEC meeting ever did. Every fund, energy firm, and multinational needs people who can model geopolitical risk. This role didn't exist two years ago. Now it pays six figures.\n\nCleared cybersecurity — drones over Washington, embassy attacks, FBI incidents. Get a security clearance, you're hired. Palantir, Booz Allen, and Leidos are all building fast. The clearance is the hard part. The job offers come after.",
+      "barista_take": "Securities law, war economy analysis, cleared cyber. Three careers the last 48 hours just made more valuable. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "linkedin-saturday-hack-2026-03-21",
+      "slug": "linkedin-saturday-hack",
+      "title": "The LinkedIn Hack Nobody's Using on Saturdays",
+      "category": "Career Move",
+      "cat_icon": "💼",
+      "featured": false,
+      "excerpt": "Saturday posts on LinkedIn get 10x the engagement of Tuesday posts. Most people are offline. The algorithm is hungry. Be the one feeding it.",
+      "body": "Here's a career move that takes 20 minutes and costs nothing: post on LinkedIn on Saturday.\n\nMost professionals post Monday through Friday. The algorithm doesn't take weekends off, but the competition does. Saturday posts get dramatically less competition for the same feed real estate.\n\nThe hack: take today's biggest news story. Write 300 words explaining what it actually means in plain English. Post it with a punchy opener. Tag three people who'd find it useful.\n\nToday's easy pitch: \"Trump says winding down. Sent 2,500 Marines. Here's what's actually happening in 60 seconds.\"\n\nDo this every Saturday for a month. Watch what happens to your profile views. Recruiters live on LinkedIn. They read on weekends too.",
+      "barista_take": "Saturday. LinkedIn. 20 minutes. Zero competition. Maximum visibility. Your future boss scrolls on weekends too. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "war-fatigue-brain-morning-2026-03-21",
+      "slug": "war-fatigue-brain-morning",
+      "title": "Your Brain Is Tired. Science Says Take the Morning Off.",
+      "category": "Health Shot",
+      "cat_icon": "🧬",
+      "featured": false,
+      "excerpt": "Day 22 of sustained war news. 3+ weeks of bad news creates measurable cognitive fatigue. One hour offline this morning isn't lazy — it's neuroscience.",
+      "body": "War fatigue is real, and it's not just a feeling. It's measurable.\n\nDay 22 of sustained high-stress news — conflict, oil prices, court rulings, Chuck Norris. Research shows that 3+ weeks of continuous bad news creates measurable cognitive fatigue: slower decision-making, lower motivation, reduced creativity.\n\nYour brain literally processes information worse when it's been marinating in cortisol for three straight weeks.\n\nOne thing today: give yourself one hour with no news, no markets, no war updates. Not because you don't care. Because your brain needs the break to keep caring well.\n\nThe war will still be there at noon. Your prefrontal cortex needs the morning.",
+      "barista_take": "Day 22. Your brain is running on fumes. One hour offline. Doctor's orders (well, neuroscience's orders). ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "sleep-oil-prices-2026-03-21",
+      "slug": "sleep-oil-prices",
+      "title": "Oil Prices Are Messing With Your Sleep (Seriously)",
+      "category": "Health Shot",
+      "cat_icon": "🧬",
+      "featured": false,
+      "excerpt": "Financial stress from rising gas and grocery prices is the #1 sleep disruptor in 2026. Here's the one thing that actually helps.",
+      "body": "Rising oil prices don't just hit your wallet. They hit your pillow.\n\nA 2026 study from the American Psychological Association found that financial stress — specifically from rising gas and grocery prices — is now the number one reported sleep disruptor in the US. More than work stress. More than relationship stress. More than doomscrolling (though that's a close second).\n\nThe fix isn't \"stop worrying about money\" — that's not how brains work. The fix is a 10-minute pre-sleep brain dump: write down every financial worry on paper. Not to solve them. Just to get them out of your head and onto something that isn't your pillow.\n\nStudies show this single habit reduces sleep onset time by 15 minutes on average. That's a free sleeping pill, courtesy of a notebook.",
+      "barista_take": "Oil at $112 is keeping you up at night. A notebook and 10 minutes can fix that. Cheaper than Ambien. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "saturday-reset-three-wins-2026-03-21",
+      "slug": "saturday-reset-three-wins",
+      "title": "The Saturday Reset: Three Wins Before You Open the News",
+      "category": "Productivity Tip",
+      "cat_icon": "🎯",
+      "featured": false,
+      "excerpt": "Before you open news or social media, write down three things you completed this week. Most people undercount their own wins. This fixes that.",
+      "body": "Here's the entire productivity system for today. It takes 4 minutes.\n\nBefore you open news or social media this morning, write down three things you actually completed this week. Not what you planned — what you actually did.\n\nMost people undercount their own output by about 40%. We remember what we didn't finish. We forget what we did. Writing it down fixes this.\n\nThen pick one thing for Monday. Not the most urgent — the most important. There's a difference. Urgent things scream. Important things whisper. The screaming things will find you. The important thing needs you to find it.\n\nThree wins. One priority. Written before the news. That's the whole system.",
+      "barista_take": "Three wins. One Monday priority. Written before you open Twitter. That's it. The whole system fits on a Post-it. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "one-tab-rule-2026-03-21",
+      "slug": "one-tab-rule",
+      "title": "The One-Tab Rule That Saved My Entire Week",
+      "category": "Productivity Tip",
+      "cat_icon": "🎯",
+      "featured": false,
+      "excerpt": "Close every browser tab except one. Work on that one thing for 25 minutes. Open the next tab. Repeat. Your brain wasn't designed for 47 tabs.",
+      "body": "You have 47 browser tabs open right now. Don't lie. I can hear your RAM crying from here.\n\nThe one-tab rule: close every tab except the one thing you're working on right now. Set a timer for 25 minutes. Work on that one thing. When the timer goes off, close it. Open the next tab.\n\nThis sounds stupidly simple because it is. But your brain wasn't built for 47 simultaneous contexts. Every open tab is a tiny cognitive thread your brain is maintaining in the background. It's like running 47 apps on a phone with 2GB of RAM.\n\nClose the tabs. One thing at a time. Your brain will thank you by actually working properly.\n\nBiggest objection: \"But I need those tabs for later.\" Bookmark them. They'll be there Monday. Your focus won't be if you keep doing this.",
+      "barista_take": "47 tabs open. Zero focus. One tab rule. 25 minutes. Your RAM called — it wants its life back. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "weekend-news-explainer-2026-03-21",
+      "slug": "weekend-news-explainer",
+      "title": "Start a Weekend News Explainer — Here's the Exact Playbook",
+      "category": "Side Hustle Spark",
+      "cat_icon": "💡",
+      "featured": false,
+      "excerpt": "Every Saturday the news explodes. Most people want someone to explain it. One post takes 45 minutes and gets 10x normal engagement. Substack is free.",
+      "body": "Every Saturday the news is exploding — war updates, court verdicts, Greenland plots, oil sanctions. Most people want to understand it but don't have time to read 12 articles.\n\nThat's your side hustle.\n\nStep 1: Pick today's biggest story. Write 300 words explaining what it actually means in plain English. No jargon. No hot takes. Just clarity.\n\nStep 2: Post on LinkedIn with a punchy opener — \"Trump says winding down. Sent 2,500 Marines. Here's what's actually happening.\" Tag 3 people who'd find it useful.\n\nStep 3: Do this every Saturday for a month. At 1,000 followers, launch a paid Substack at $7/month.\n\nThe math: 1,000 paying subscribers × $7/month = $7,000/month. For 45 minutes of writing on Saturday mornings.\n\nSubstack is free to start. LinkedIn already has your audience. The news is providing unlimited content. You just need to start.",
+      "barista_take": "45 minutes. One post. Saturday morning. $7K/month potential. The news is the content. You're the translator. ☕",
+      "date": "2026-03-21"
+    },
+    {
+      "id": "mindset-calm-the-storm-2026-03-21",
+      "slug": "mindset-calm-the-storm",
+      "title": "\"You Can't Calm the Storm. Calm Yourself.\"",
+      "category": "Mindset Moment",
+      "cat_icon": "🧠",
+      "featured": false,
+      "excerpt": "Day 22. South Pars is burning. Markets are red. None of that is in your control. Your first hour today — that's what you own.",
+      "body": "\"You can't calm the storm. So stop trying. What you can do is calm yourself.\" — Timber Hawkeye\n\nSouth Pars is burning. Markets are red. Drones are over Washington. Chuck Norris is gone. None of that is in your control.\n\nWhat is in your control: your first hour today. Your one most important task. Whether you open the news app or open the work you've been avoiding.\n\nThe storm will still be there when you're done. It hasn't gone anywhere in 22 days. It won't leave in the next hour.\n\nBut that hour — the one where you ignore the noise and do the thing that matters — that's the hour that compounds. That's the hour that separates the people who survived 2026 from the people who just watched it happen.",
+      "quote": "You can't calm the storm. So stop trying. What you can do is calm yourself.",
+      "quote_author": "Timber Hawkeye",
+      "barista_take": "The storm isn't stopping. Your first hour is yours. Use it before the news takes it. ☕",
+      "date": "2026-03-21"
+    }
+  ],
+  "on_this_day": [
+    {"year": 2003, "text": "US invaded Iraq — Operation Iraqi Freedom began. \"Shock and awe.\" 23 years later, US forces are back in the region fighting a different war. History doesn't repeat, but it does rhyme aggressively."},
+    {"year": 1969, "text": "John Lennon married Yoko Ono in Gibraltar. They immediately held a \"Bed-In for Peace\" in Amsterdam. Different approach to geopolitics. Didn't scale."},
+    {"year": 1852, "text": "Uncle Tom's Cabin published by Harriet Beecher Stowe. Lincoln allegedly called her \"the little woman who started this great war.\" Books can move history. Substack hasn't managed this yet."}
+  ],
+  "meme": {
+    "lines": ["Trump: \"Winding down.\"", "Also Trump: *deploys 2,500 Marines*", "Oil: $112.", "Chuck Norris: gone.", "Elon Musk: lost in court.", "Denmark: brought explosives to NATO practice."],
+    "closer": "It's Saturday. The news didn't get the memo. ☕"
+  },
+  "cafe_wins": [
+    "✅ One hour offline — no news, no markets, no war updates",
+    "📋 Write 3 things you accomplished this week",
+    "⛽ Fill up your gas tank — oil at $112",
+    "📋 Write your one most important task before opening Slack",
+    "☕ One full hour of focused work before lunch"
+  ]
+}
