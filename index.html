@@ -438,27 +438,12 @@ img{display:block;max-width:100%}
 const BG_CLASSES = ['bg-1','bg-2','bg-3','bg-4','bg-5','bg-6'];
 
 // Unsplash images — royalty-free, no attribution required
-const THUMBS = {
-  'natanz-bunker-busters':'https://picsum.photos/seed/natanz/800/450',
-  'iran-threatens-uae':'https://picsum.photos/seed/uae-threat/800/450',
-  'israel-passover-cancelled':'https://picsum.photos/seed/city-building/800/450',
-  'cbs-radio-dead':'https://picsum.photos/seed/vintage-mic/800/450',
-  'markets-worst-week':'https://picsum.photos/seed/markets-down/800/450',
-  'gold-crash':'https://picsum.photos/seed/gold-drop/800/450',
-  'gas-five-dollars':'https://picsum.photos/seed/highway-road/800/450',
-  'musk-twitter':'https://picsum.photos/seed/musk-court/800/450',
-  'bitcoin-war-hedge':'https://picsum.photos/seed/bitcoin-up/800/450',
-  'first-amendment-week':'https://picsum.photos/seed/free-press/800/450',
-  'war-careers':'https://picsum.photos/seed/careers-war/800/450',
-  'linkedin-saturday':'https://picsum.photos/seed/linkedin-post/800/450',
-  'brain-fumes':'https://picsum.photos/seed/brain-rest/800/450',
-  'sleep-prices':'https://picsum.photos/seed/sleep-fix/800/450',
-  'three-wins':'https://picsum.photos/seed/three-wins/800/450',
-  'close-tabs':'https://picsum.photos/seed/close-tabs/800/450',
-  'explainer-hustle':'https://picsum.photos/seed/side-hustle/800/450',
-  'calm-storm':'https://picsum.photos/seed/calm-ocean/800/450',
-};
-function thumb(slug){ return THUMBS[slug]||''; }
+const THUMBS = {};
+function thumb(slug){
+  const a = (data.articles||[]).find(x=>x.slug===slug);
+  if(a && a.image) return a.image;
+  return THUMBS[slug]||'';
+}
 const CATEGORIES = [
   {name:'All',icon:''},
   {name:'World Roast',icon:'🌍'},
