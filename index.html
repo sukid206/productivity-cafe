@@ -505,7 +505,7 @@ function getMarketTiles(data){
 
 // ─── RENDER ───
 async function render(){
-  const data = DEMO_DATA;
+  let data; try { const res = await fetch("./data/latest.json"); if(!res.ok) throw new Error("x"); data = await res.json(); } catch(e) { data = DEMO_DATA; }
 
   const app = document.getElementById('app');
   const featured = data.articles.find(a=>a.featured) || data.articles[0];
@@ -874,7 +874,7 @@ function renderArticle(slug, data){
 // ─── HASH ROUTER ───
 function route(){
   const slug = window.location.hash.slice(1);
-  const data = DEMO_DATA;
+  let data; try { const res = await fetch("./data/latest.json"); if(!res.ok) throw new Error("x"); data = await res.json(); } catch(e) { data = DEMO_DATA; }
 
   if(slug && data.articles.find(a=>a.slug===slug)){
     renderArticle(slug, data);
