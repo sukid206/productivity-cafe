@@ -505,17 +505,7 @@ function getMarketTiles(data){
 
 // ─── RENDER ───
 async function render(){
-  let data;
-  try {
-    // Try loading from ./data/latest.json (production)
-    // Falls back to embedded data for demo
-    const res = await fetch('./data/latest.json');
-    if(!res.ok) throw new Error('No data file');
-    data = await res.json();
-  } catch(e) {
-    // EMBEDDED DEMO DATA (replace with fetch in production)
-    data = DEMO_DATA;
-  }
+  const data = DEMO_DATA;
 
   const app = document.getElementById('app');
   const featured = data.articles.find(a=>a.featured) || data.articles[0];
